@@ -1,7 +1,7 @@
 {
   "name": "Sakura 🌸 Path Cat Light theme",
   "description": "A bright blush-pink theme inspired by the sakura path with the white cat — all backgrounds in blossom pink",
-  "version": "2.0-v349",
+  "version": "2.1-v349-settings-fix",
   "authors": [
     {
       "name": "𝐑𝐢𝐬𝐤",
@@ -14,52 +14,52 @@
       "#f0c3cf"
     ],
     "CONTEXT_MENU_BACKDROP_BACKGROUND": [
-      "#e8a0b066",
-      "#e8a0b066"
+      "#5c2a3533",
+      "#5c2a3533"
     ],
     "CHAT_BACKGROUND": [
       "#fbe4ea",
       "#fbe4ea"
     ],
     "BACKGROUND_ACCENT": [
-      "#f6d9e0",
-      "#f6d9e0"
+      "#f3b8c6",
+      "#f3b8c6"
     ],
     "BACKGROUND_FLOATING": [
       "#fbe4ea",
       "#fbe4ea"
     ],
     "BACKGROUND_MENTIONED": [
-      "#ffe0e6",
-      "#ffe0e6"
+      "#ffd6de",
+      "#ffd6de"
     ],
     "FORUM_POST_TAG_BACKGROUND": [
       "#f3b8c6",
       "#f3b8c6"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#ffd6de",
-      "#ffd6de"
+      "#ffe0e6",
+      "#ffe0e6"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#00000000",
-      "#00000000"
+      "#c96f85cc",
+      "#c96f85cc"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "#00000000",
       "#00000000"
     ],
     "SCROLLBAR_AUTO_THUMB": [
+      "#c96f85cc",
+      "#c96f85cc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
       "#00000000",
       "#00000000"
     ],
-    "SCROLLBAR_AUTO_TRACK": [
-      "#fbe4ea",
-      "#fbe4ea"
-    ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#f6cbd6",
-      "#f6cbd6"
+      "#f3b8c6",
+      "#f3b8c6"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#fbe4ea",
@@ -70,16 +70,16 @@
       "#f6cbd6"
     ],
     "CHANNELS_DEFAULT": [
-      "#7a3b47",
-      "#7a3b47"
+      "#c9506c",
+      "#c9506c"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#f6cbd6",
       "#f6cbd6"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#fbe4ea",
-      "#fbe4ea"
+      "#f8cdd8",
+      "#f8cdd8"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#fbe4ea",
@@ -90,20 +90,20 @@
       "#f8d3dc"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#f6d9e0",
-      "#f6d9e0"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
       "#f0c3cf",
       "#f0c3cf"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#f3b8c6",
+      "#f3b8c6"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "#f6cbd6",
       "#f6cbd6"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#fbe4ea",
-      "#fbe4ea"
+      "#f8cdd8",
+      "#f8cdd8"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#f8d3dc",
@@ -118,16 +118,16 @@
       "#f8d3dc"
     ],
     "BORDER_FAINT": [
-      "#f6d9e0",
-      "#f6d9e0"
-    ],
-    "BORDER_STRONG": [
       "#f0c3cf",
       "#f0c3cf"
     ],
+    "BORDER_STRONG": [
+      "#c9506c",
+      "#c9506c"
+    ],
     "BORDER_SUBTLE": [
-      "#fbe4ea",
-      "#fbe4ea"
+      "#f0c3cf",
+      "#f0c3cf"
     ],
     "CARD_SECONDARY_BG": [
       "#f8cdd8",
@@ -158,16 +158,16 @@
       "#5c2a35"
     ],
     "INTERACTIVE_HOVER": [
-      "#7a3b47",
-      "#7a3b47"
+      "#c9506c",
+      "#c9506c"
     ],
     "INTERACTIVE_MUTED": [
-      "#d9a3af",
-      "#d9a3af"
+      "#b57584",
+      "#b57584"
     ],
     "INTERACTIVE_NORMAL": [
-      "#6b3441",
-      "#6b3441"
+      "#8a4a58",
+      "#8a4a58"
     ],
     "MENTION_BACKGROUND": [
       "#ffd6de",
@@ -186,8 +186,8 @@
       "#f3b8c6"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#fbe4ea",
-      "#fbe4ea"
+      "#f0c3cf",
+      "#f0c3cf"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
       "#e0607d",
@@ -250,8 +250,8 @@
       "#5c2a35"
     ],
     "TEXT_SECONDARY": [
-      "#a35a68",
-      "#a35a68"
+      "#8a4a58",
+      "#8a4a58"
     ],
     "KEYBOARD": [
       "#fbe4ea",
@@ -270,24 +270,228 @@
       "#f8d3dc"
     ],
     "BACKGROUND_BASE_LOW": [
-      "#fbe4ea",
-      "#fbe4ea"
+      "#f6cbd6",
+      "#f6cbd6"
     ],
     "CARD_PRIMARY_PRESSED_BG": [
-      "#f8cdd8",
-      "#f8cdd8"
+      "#f3b8c6",
+      "#f3b8c6"
     ],
     "BACKGROUND_SURFACE_HIGH": [
       "#fbe4ea",
       "#fbe4ea"
     ],
     "BACKGROUND_SURFACE_HIGHEST": [
-      "#fbe4ea",
-      "#fbe4ea"
+      "#f6cbd6",
+      "#f6cbd6"
     ],
     "CHAT_INPUT_BACKGROUND": [
       "#f6cbd6",
       "#f6cbd6"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#f8cdd8",
+      "#f8cdd8"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "BACKGROUND_MOD_NORMAL": [
+      "#f3b8c6",
+      "#f3b8c6"
+    ],
+    "BACKGROUND_MOD_STRONG": [
+      "#f3b8c6",
+      "#f3b8c6"
+    ],
+    "BACKGROUND_MOD_SUBTLE": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "CHANNEL_BACKGROUND_DEFAULT": [
+      "#f8d3dc",
+      "#f8d3dc"
+    ],
+    "CHAT_BANNER_BG": [
+      "#f8cdd8",
+      "#f8cdd8"
+    ],
+    "CHAT_BORDER": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "#f8cdd8",
+      "#f8cdd8"
+    ],
+    "CARD_BORDER_DEFAULT": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "CARD_MUTED_BG": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "CARD_MUTED_PRESSED_BG": [
+      "#f3b8c6",
+      "#f3b8c6"
+    ],
+    "CARD_SECONDARY_BACKGROUND_ACTIVE": [
+      "#f3b8c6",
+      "#f3b8c6"
+    ],
+    "CARD_SECONDARY_BACKGROUND_DEFAULT": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "CARD_SECONDARY_PRESSED_BG": [
+      "#f3b8c6",
+      "#f3b8c6"
+    ],
+    "BORDER_MUTED": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "BORDER_NORMAL": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": [
+      "#c9506c",
+      "#c9506c"
+    ],
+    "BUTTON_OUTLINE_BRAND_BORDER_ACTIVE": [
+      "#c9506c",
+      "#c9506c"
+    ],
+    "BUTTON_OUTLINE_PRIMARY_TEXT": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "BADGE_BACKGROUND_BRAND": [
+      "#c9506c",
+      "#c9506c"
+    ],
+    "BADGE_BACKGROUND_DEFAULT": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "BADGE_NOTIFICATION_BACKGROUND": [
+      "#e0607d",
+      "#e0607d"
+    ],
+    "BADGE_TEXT_BRAND": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "BADGE_TEXT_DEFAULT": [
+      "#5c2a35",
+      "#5c2a35"
+    ],
+    "BACKGROUND_SCRIM": [
+      "#5c2a3533",
+      "#5c2a3533"
+    ],
+    "BACKGROUND_SCRIM_LIGHTBOX": [
+      "#5c2a35eb",
+      "#5c2a35eb"
+    ],
+    "APP_FRAME_BORDER": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "BACKGROUND_APP_LAUNCHER_CARD_DEFAULT": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "BACKGROUND_APP_LAUNCHER_ROW_DEFAULT": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "BACKGROUND_CODE": [
+      "#c9506c14",
+      "#c9506c14"
+    ],
+    "BACKGROUND_FEEDBACK_CRITICAL": [
+      "#e0607d14",
+      "#e0607d14"
+    ],
+    "BACKGROUND_FEEDBACK_INFO": [
+      "#c9506c14",
+      "#c9506c14"
+    ],
+    "BACKGROUND_FEEDBACK_POSITIVE": [
+      "#c96f8514",
+      "#c96f8514"
+    ],
+    "BACKGROUND_FEEDBACK_WARNING": [
+      "#f0c3cf14",
+      "#f0c3cf14"
+    ],
+    "BORDER_FEEDBACK_CRITICAL": [
+      "#e0607d",
+      "#e0607d"
+    ],
+    "BORDER_FEEDBACK_INFO": [
+      "#c9506c",
+      "#c9506c"
+    ],
+    "BORDER_FEEDBACK_POSITIVE": [
+      "#c96f85",
+      "#c96f85"
+    ],
+    "BORDER_FEEDBACK_WARNING": [
+      "#c96f85",
+      "#c96f85"
+    ],
+    "BUTTON_DANGER_BACKGROUND_DISABLED": [
+      "#e0607d",
+      "#e0607d"
+    ],
+    "CHECKBOX_BACKGROUND_DEFAULT": [
+      "#5c2a3514",
+      "#5c2a3514"
+    ],
+    "CHECKBOX_BACKGROUND_SELECTED_DEFAULT": [
+      "#c9506c",
+      "#c9506c"
+    ],
+    "CHECKBOX_BORDER_DEFAULT": [
+      "#c9506c",
+      "#c9506c"
+    ],
+    "CHECKBOX_ICON_ACTIVE": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "CONTROL_BRAND_FOREGROUND": [
+      "#c9506c",
+      "#c9506c"
+    ],
+    "CHAT_INPUT_SEND_BUTTON_ACTIVE_BACKGROUND": [
+      "#c9506c",
+      "#c9506c"
+    ],
+    "CHAT_INPUT_SEND_BUTTON_ICON_ACTIVE_TINT": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "USER_PROFILE_CONTAINER_BACKGROUND": [
+      "#f0c3cf",
+      "#f0c3cf"
+    ],
+    "USER_PROFILE_GRADIENT_BACKGROUND": [
+      "#fbe4ea",
+      "#fbe4ea"
+    ],
+    "VOICE_CHANNEL_USER_LIMIT_BACKGROUND": [
+      "#f8d3dc",
+      "#f8d3dc"
+    ],
+    "VOICE_CHANNEL_USER_LIMIT_TEXT": [
+      "#8a4a58",
+      "#8a4a58"
     ]
   },
   "rawColors": {
